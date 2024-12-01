@@ -1,1 +1,2 @@
 Hello it is my 1st assignment to do
+My 1st assignment is about git commands
